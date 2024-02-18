@@ -1,2 +1,2 @@
 # delta-demo
-This is Demo of the class
+This is Demo of the class.
